@@ -101,7 +101,7 @@ gokul@portfolio:~$ SELECT skill, level FROM gokul_raj.expertise ORDER BY level D
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulvad1234&layout=compact&hide_border=true" />
 </p>
 
-> ⚠️ Replace `gokulvad1234` above with your actual GitHub username so the stats load correctly.
+> ⚠️ Replace gokulvad1234 above with your actual GitHub username so the stats load correctly.
 
 ---
 
