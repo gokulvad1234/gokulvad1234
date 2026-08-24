@@ -96,13 +96,11 @@ gokul@portfolio:~$ SELECT skill, level FROM gokul_raj.expertise ORDER BY level D
 
 ### 📊 GitHub Stats
 
+<h2 align="center">📈 Contribution Graph</h2>
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gokulvad1234&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulvad1234&layout=compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokulvad1234&hide_border=true&area=true" />
 </p>
-
-> ⚠️ Replace gokulvad1234 above with your actual GitHub username so the stats load correctly.
-
 ---
 
 ### 🤝 Let's Connect
